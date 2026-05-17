@@ -19,7 +19,7 @@
 
 AI systems are being deployed faster than organisations can govern them. I help close that gap.
 
-I'm a Business Analyst at **Jamtech Technologies**, working at the intersection of **AI product strategy** and **risk governance** — designing product roadmaps for AI-native tools, building governance protocols for automated pipelines, and translating C-suite AI ambitions into technically scoped, responsibly governed product decisions.
+I'm a Business Analyst, working at the intersection of **AI product strategy** and **risk governance** — designing product roadmaps for AI-native tools, building governance protocols for automated pipelines, and translating C-suite AI ambitions into technically scoped, responsibly governed product decisions.
 
 My approach to AI governance is practical, not theoretical: I translate **NIST AI RMF** and **EU AI Act** requirements into actionable product constraints, embed bias validation checkpoints into data pipelines, and ensure automated decision systems remain auditable, explainable, and compliant with evolving regulatory standards.
 
