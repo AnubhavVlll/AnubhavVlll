@@ -1,65 +1,205 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anubhav+Verma!;"/>
-</h1>
+<h1 align="center">Hi 👋 I'm Anubhav Verma</h1>
 
-<h3 align="center">Aspiring Data Analyst</h3>
-<h4 align="center">with a passion for turning complex data into actionable insights</h4>
-<br/>
+<h3 align="center">
+AI Governance & Product Strategist | Responsible AI | EU AI Act · NIST AI RMF
+</h3>
 
-<div align="center">
- 
- 🔭  **A tech Enthusiast**  
- 
-🌱 I’m expanding my knowledge in **Data Visualization, Data Cleaning, Data Mining** and **StoryTelling**
+<p align="center">
+Turning AI Risk into Business Advantage
+</p>
 
-⚡ Fun fact **I can convert complex data into good stories with memes!**
+---
 
+## 🚀 About Me
 
-</div>
+I am building at the intersection of:
 
-<div align="center"> 
-  <a href="mailto:verma01anubhav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/anubhav01verma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+🧠 Artificial Intelligence  
+📊 Data Analytics  
+🛡 AI Governance  
+📈 Product Strategy  
+⚖ Responsible AI  
 
-<hr/>
+Currently working as an **IT Business Analyst Trainee**, with previous experience in **Data Analytics**, while actively transitioning toward the future of **AI Governance, Responsible AI, and AI Product Strategy**.
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
-<div align="center">
-	
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+My mission is to help organizations build AI systems that are not only innovative but also:
 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  <code><img width="130" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" title="MS Excel"></code>
-  <code><img width="120" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Micosoft Office" title="Micosoft Office"/></code>
+✔ Safe  
+✔ Trustworthy  
+✔ Compliant  
+✔ Human-Centered  
+✔ Business Aligned  
 
-</div>
-  <code><img width="120" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tabular" title="Tabular"/></code>
+---
 
-</div>
+# 🎯 Current Mission (2026 Roadmap)
 
-<br/>
-<hr/>
+My next 8–10 month journey focuses on becoming industry-ready in:
 
+### Responsible AI & Governance
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavvlll&show_icons=true&locale=en&layout=compact" alt="anubhavvlll" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
+- EU AI Act
+- NIST AI RMF
+- AI Risk Assessment
+- AI Lifecycle Governance
+- AI Safety Principles
+- Bias & Fairness
+- Model Transparency
+- Explainability
+- Trustworthy AI Systems
 
+### AI Product Strategy
+
+- AI Product Thinking
+- Product Discovery
+- AI Use Case Evaluation
+- PRDs
+- AI Roadmaps
+- Business Impact Frameworks
+- Metrics & Decision Models
+
+### Technical Foundations
+
+- SQL
+- Python
+- Power BI
+- Business Analytics
+- Generative AI
+- LLM Ecosystems
+- RAG Systems
+
+---
+
+# 🧩 What I Am Building
+
+## AI Governance Projects
+
+📌 EU AI Act Implementation Frameworks
+
+📌 NIST AI RMF Mapping Templates
+
+📌 AI Risk Registers
+
+📌 Responsible AI Assessment Checklists
+
+📌 AI Compliance Workflows
+
+📌 Governance Dashboards
+
+---
+
+## Product & Analytics Projects
+
+📊 Business Intelligence Dashboards
+
+📊 Retail Analytics Projects
+
+📊 Power BI Storytelling
+
+📊 SQL Business Cases
+
+📊 Data-driven Decision Systems
+
+---
+
+## Future Build Roadmap
+
+🤖 AI Governance Copilot
+
+🛡 AI Risk Intelligence Platform
+
+📈 Responsible AI Product Frameworks
+
+⚖ Compliance-driven AI Workflows
+
+📚 AI Governance Knowledge Base
+
+---
+
+# 🛠 Tech Stack
+
+### Analytics
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### AI & Governance
+
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-blue?style=for-the-badge)
+
+![AI Governance](https://img.shields.io/badge/AI_Governance-darkgreen?style=for-the-badge)
+
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-purple?style=for-the-badge)
+
+![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-red?style=for-the-badge)
+
+---
+
+# 🎯 Target Roles
+
+🚀 AI Governance Analyst
+
+🚀 Responsible AI Specialist
+
+🚀 AI Product Strategist
+
+🚀 AI Risk & Compliance Consultant
+
+🚀 AI Governance Consultant
+
+🚀 Responsible AI Program Manager
+
+🚀 AI Policy & Governance Associate
+
+---
+
+# 📚 Philosophy
+
+> AI innovation without governance creates risk.  
+> Governance without innovation creates stagnation.  
+> The future belongs to those who can balance both.
+
+---
+
+# 📈 Current Focus Areas
+
+✔ Responsible AI
+
+✔ EU AI Act
+
+✔ NIST AI RMF
+
+✔ AI Risk Management
+
+✔ Product Strategy
+
+✔ Data Analytics
+
+✔ Generative AI
+
+✔ Governance-by-Design
+
+---
+
+## 🤝 Connect
+
+LinkedIn: [Add LinkedIn]
+
+GitHub: https://github.com/yourusername
+
+Portfolio: Coming Soon
+
+---
+
+⭐ Building the future of Responsible AI, Governance, and Product Strategy
