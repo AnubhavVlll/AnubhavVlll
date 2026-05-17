@@ -1,205 +1,87 @@
-<h1 align="center">Hi 👋 I'm Anubhav Verma</h1>
+<h1 align="center">Hi, I'm Anubhav Verma 👋</h1>
 
-<h3 align="center">
-AI Governance & Product Strategist | Responsible AI | EU AI Act · NIST AI RMF
-</h3>
+<h3 align="center">AI Governance & Product Strategist &nbsp;·&nbsp; Responsible AI &nbsp;·&nbsp; EU AI Act · NIST AI RMF</h3>
 
 <p align="center">
-Turning AI Risk into Business Advantage
+  <a href="https://www.linkedin.com/in/anubhav01verma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:verma01anubhav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-verma01anubhav%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-FF9933?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%20PM%20%7C%20AI%20Governance%20%7C%20AI%20Safety%20Roles-22C55E?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am building at the intersection of:
+AI systems are being deployed faster than organisations can govern them. I help close that gap.
 
-🧠 Artificial Intelligence  
-📊 Data Analytics  
-🛡 AI Governance  
-📈 Product Strategy  
-⚖ Responsible AI  
+I'm a Business Analyst at **Jamtech Technologies**, working at the intersection of **AI product strategy** and **risk governance** — designing product roadmaps for AI-native tools, building governance protocols for automated pipelines, and translating C-suite AI ambitions into technically scoped, responsibly governed product decisions.
 
-Currently working as an **IT Business Analyst Trainee**, with previous experience in **Data Analytics**, while actively transitioning toward the future of **AI Governance, Responsible AI, and AI Product Strategy**.
+My approach to AI governance is practical, not theoretical: I translate **NIST AI RMF** and **EU AI Act** requirements into actionable product constraints, embed bias validation checkpoints into data pipelines, and ensure automated decision systems remain auditable, explainable, and compliant with evolving regulatory standards.
 
-My mission is to help organizations build AI systems that are not only innovative but also:
-
-✔ Safe  
-✔ Trustworthy  
-✔ Compliant  
-✔ Human-Centered  
-✔ Business Aligned  
+Currently targeting roles in:
+- 🛡️ **AI Ethics & Governance** — Governance Analyst, Responsible AI Consultant
+- 🔬 **AI Safety** — Safety Analyst, Policy & Risk Analyst
+- 📦 **AI Product / Project Management** — Associate AI PM, Technical PM
 
 ---
 
-# 🎯 Current Mission (2026 Roadmap)
+## 🔍 Areas of Focus
 
-My next 8–10 month journey focuses on becoming industry-ready in:
-
-### Responsible AI & Governance
-
-- EU AI Act
-- NIST AI RMF
-- AI Risk Assessment
-- AI Lifecycle Governance
-- AI Safety Principles
-- Bias & Fairness
-- Model Transparency
-- Explainability
-- Trustworthy AI Systems
-
-### AI Product Strategy
-
-- AI Product Thinking
-- Product Discovery
-- AI Use Case Evaluation
-- PRDs
-- AI Roadmaps
-- Business Impact Frameworks
-- Metrics & Decision Models
-
-### Technical Foundations
-
-- SQL
-- Python
-- Power BI
-- Business Analytics
-- Generative AI
-- LLM Ecosystems
-- RAG Systems
+| Domain | What I work on |
+|---|---|
+| **AI Governance** | NIST AI RMF, EU AI Act compliance, AI Risk Registers, model governance frameworks |
+| **Responsible AI** | Bias mitigation, algorithmic fairness, explainability (XAI), data privacy |
+| **AI Product Strategy** | Product roadmapping, LLM feature requirements, AI adoption frameworks |
+| **Risk & Compliance** | Governance protocols, audit trails, privacy checkpoints, incident response |
+| **Stakeholder Management** | C-suite advisory, cross-functional alignment, technical requirements engineering |
 
 ---
 
-# 🧩 What I Am Building
+## 🛠️ Skills & Tools
 
-## AI Governance Projects
+**AI Governance & Ethics**
+`AI Governance` `Responsible AI` `EU AI Act` `NIST AI RMF` `Bias Mitigation` `Algorithmic Fairness` `Model Governance` `Explainable AI (XAI)` `AI Risk Management` `AI Policy & Regulation`
 
-📌 EU AI Act Implementation Frameworks
+**AI Product Management**
+`Product Roadmapping` `User Story Mapping` `Requirements Analysis` `Agile / Scrum` `Stakeholder Management` `LLM Feature Requirements` `AI Adoption Frameworks` `Technical Specifications`
 
-📌 NIST AI RMF Mapping Templates
+**Data & Analytics**
+`Python` `SQL` `Power BI` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel` `MySQL` `Jupyter`
 
-📌 AI Risk Registers
+**Frameworks & Standards**
+`NIST AI RMF` `EU AI Act` `India DPDP Act` `GDPR` `Responsible AI (Google/Microsoft)`
 
-📌 Responsible AI Assessment Checklists
-
-📌 AI Compliance Workflows
-
-📌 Governance Dashboards
-
----
-
-## Product & Analytics Projects
-
-📊 Business Intelligence Dashboards
-
-📊 Retail Analytics Projects
-
-📊 Power BI Storytelling
-
-📊 SQL Business Cases
-
-📊 Data-driven Decision Systems
 
 ---
 
-## Future Build Roadmap
+## ✍️ Writing & Thought Leadership
 
-🤖 AI Governance Copilot
+I write about AI governance, responsible AI deployment, and the policy landscape — with a focus on what it means for Indian tech companies operating in global markets.
 
-🛡 AI Risk Intelligence Platform
+📌 **Latest:** [Your AI Is Legal in Mumbai. Is It Legal in Munich? — Where the EU AI Act Meets India's DPDP Act](https://www.linkedin.com/in/anubhav01verma/)
 
-📈 Responsible AI Product Frameworks
-
-⚖ Compliance-driven AI Workflows
-
-📚 AI Governance Knowledge Base
-
----
-
-# 🛠 Tech Stack
-
-### Analytics
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Topics I cover:
+- EU AI Act & NIST AI RMF in practice
+- AI governance for Indian SaaS companies going global
+- Responsible AI product management
+- Why AI governance is a product problem, not a legal one
 
 ---
 
-### Programming
+## 📬 Let's Connect
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm open to conversations about AI governance, responsible AI product strategy, and AI safety roles. If you're building AI systems that need to be both powerful and trustworthy — let's talk.
 
----
-
-### AI & Governance
-
-![Responsible AI](https://img.shields.io/badge/Responsible_AI-blue?style=for-the-badge)
-
-![AI Governance](https://img.shields.io/badge/AI_Governance-darkgreen?style=for-the-badge)
-
-![EU AI Act](https://img.shields.io/badge/EU_AI_Act-purple?style=for-the-badge)
-
-![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-red?style=for-the-badge)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anubhav01verma/)
+- 📧 verma01anubhav@gmail.com
 
 ---
 
-# 🎯 Target Roles
-
-🚀 AI Governance Analyst
-
-🚀 Responsible AI Specialist
-
-🚀 AI Product Strategist
-
-🚀 AI Risk & Compliance Consultant
-
-🚀 AI Governance Consultant
-
-🚀 Responsible AI Program Manager
-
-🚀 AI Policy & Governance Associate
-
----
-
-# 📚 Philosophy
-
-> AI innovation without governance creates risk.  
-> Governance without innovation creates stagnation.  
-> The future belongs to those who can balance both.
-
----
-
-# 📈 Current Focus Areas
-
-✔ Responsible AI
-
-✔ EU AI Act
-
-✔ NIST AI RMF
-
-✔ AI Risk Management
-
-✔ Product Strategy
-
-✔ Data Analytics
-
-✔ Generative AI
-
-✔ Governance-by-Design
-
----
-
-## 🤝 Connect
-
-LinkedIn: [Add LinkedIn]
-
-GitHub: https://github.com/yourusername
-
-Portfolio: Coming Soon
-
----
-
-⭐ Building the future of Responsible AI, Governance, and Product Strategy
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnubhavVlll&style=flat-square&color=6366f1" alt="Profile views" />
+</p>
